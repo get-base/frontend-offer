@@ -16,10 +16,10 @@
 - You'll need to know how to communicate in English. It's ok if it's not perfect as long as you manage to get your point across and you are willing to keep improving it once you join. 
 
 ## About Base
-We are a NYC startup that is disrupting the wellness and healthcare space. We bring at-home lab testing and pair it with a data-science app that gives people recommendations on how to eat and live a healthy life based on their blood data. All managed in-app. 
+We are a NYC 🗽 startup that is disrupting the wellness and healthcare space. We bring at-home lab testing and pair it with a data-science app that gives people recommendations on how to eat and live a healthy life based on their blood data. All managed in-app. 
 
 - Check our webpage: https://get-base.com
-- Check this Forbes article about us: https://www.forbes.com/sites/berenicemagistretti/2021/02/09/at-home-lab-testing-startup-base-launches-with-a-34m-seed-round-to-help-improve-sleep-diet-and-sex-drive/?sh=527fd7b410ad
+- Check this [Forbes](https://www.forbes.com/sites/berenicemagistretti/2021/02/09/at-home-lab-testing-startup-base-launches-with-a-34m-seed-round-to-help-improve-sleep-diet-and-sex-drive/?sh=527fd7b410ad) article about us! 🚀
 - We have VIP and world-class investors involved in our company
 - Lola, the CEO, is a former Senior Software Engineer @ Amazon, Facebook/Instagram with a Masters in Machine Learning.
 
