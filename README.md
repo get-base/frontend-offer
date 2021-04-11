@@ -26,7 +26,7 @@ We are a NYC 🗽 startup that is disrupting the wellness and healthcare space. 
 - We have VIP and world-class investors involved in our company
 - Lola, the CEO, is a former Senior Software Engineer @ Amazon, Facebook/Instagram with a Masters in Machine Learning.
 
-We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Shoot us a message at jobs@get-base.com with your LinkedIn profile, resume or any info about you.
+We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Shoot us a message at jobs@get-base.com with your LinkedIn profile OR resume.
 
 **Salary range** 40k-65k
 
