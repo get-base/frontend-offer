@@ -9,7 +9,7 @@
 - Bonus points  if have previous experience with Gatsby/React. 
 - Bonus points if you've optimized for SEO before.
 
-## More about the role:
+## What you'll do:
 - Own our [blog](https://get-base.com/blog) and discuss different architectures with [Lola](https://www.linkedin.com/in/lolapriego/).
 - You'd be working directly with the marketing and product team to fully own our webpage (HTML/CSS/JS). From implementing A/B tests to enhance and improve our checkout functionality.
 - You'd be creating an onboarding flow (quiz) from scratch
