@@ -17,6 +17,7 @@
 - You'd be dispatching landing pages working directly with the marketing team and owning analytics subscriber conversions.
 - You'd own our SEO performance
 - You'd own analytics partnering up with marketing and myself to help understand how users navigate our web, integrating those with FB pixel, Google Ads, etc.
+- You'd own our architecture for web deployments + web securtiy (hosted in AWS)
 
 ## About Base
 We are a NYC 🗽 startup that is disrupting the wellness and healthcare space. We bring at-home lab testing and pair it with a data-science app that gives people recommendations on how to eat and live a healthy life based on their blood data. All managed in-app. 
