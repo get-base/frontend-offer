@@ -1,7 +1,7 @@
 # Frontend Lead Engineer @ Base
 
 ## We are looking for someone who is:
-- Really passionate about **frontend development and/or full stack**. If you LOVE ♥️ coding, designing architectures and discussing why framework A is better than framework B, Base is your team!
+- Really passionate about frontend development **and/or full stack**. If you LOVE ♥️ coding, designing architectures and discussing why framework A is better than framework B, Base is your team!
 - Fast learner! At the end of the day we don't care if you are an expert in a given technology because we believe that the best engineers are curious about new technologies, smart, and learn fast.
 - Passionate about the U.S.🇺🇸 technology market. Our HQ is in NYC 🗽 and our ideal candidate is really excited about coming ✈️ to NYC once or twice a year ✈️ (of course, all expenses paid by the company and post-covid).
 - You'd like to work with talent that comes from companies like Instagram, Facebook, Spotify, and others.
