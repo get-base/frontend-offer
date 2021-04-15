@@ -10,14 +10,16 @@
 - Bonus points if you've optimized for SEO before.
 
 ## What you'll do:
-- Own our [blog](https://get-base.com/blog) and discuss different architectures with [Lola](https://www.linkedin.com/in/lolapriego/).
+- Own and create from scratch our new [blog](https://get-base.com/blog) frontend and discuss different architectures with [Lola](https://www.linkedin.com/in/lolapriego/).
 - You'd be working directly with the marketing and product team to fully own our webpage (HTML/CSS/JS). From implementing A/B tests to enhance and improve our checkout functionality.
-- You'd be creating an onboarding flow (quiz) from scratch
-- You'd own our checkout flow (that integrates with Stripe, account creation, etc.)
-- You'd be dispatching landing pages working directly with the marketing team and owning analytics subscriber conversions.
+- You'll be your own **project manager** owning anything that touches frontend and syncing directly with product, marketing. You'll be encouraged to propose new product ideas and prioritize accordingly from company wide KPIs. You'll be reporting directly to the CEO
+- You'd be creating an onboarding flow (Quiz) from scratch
+- You'd own our checkout flow (that integrates with Stripe 💰, account creation, etc.)
+- You'd be dispatching landing pages working directly with the marketing team and owning analytics subscriber conversions having a direct impact on how many people will be using Base!
 - You'd own our SEO performance
 - You'd own analytics partnering up with marketing and myself to help understand how users navigate our web, integrating those with FB pixel, Google Ads, etc.
-- You'd own our architecture for web deployments + web securtiy (hosted in AWS)
+- You'd own and establish our processes for web deployments + web securtiy (hosted in AWS)
+- You'll be tasked to hire and grow the team 📈
 
 ## About Base
 We are a NYC 🗽 startup that is disrupting the wellness and healthcare space. We bring at-home lab testing and pair it with a data-science app that gives people recommendations on how to eat and live a healthy life based on their blood data. All managed in-app. 
