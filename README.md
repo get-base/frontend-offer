@@ -10,6 +10,8 @@
 - Bonus points if you've optimized for SEO before.
 
 ## What you'll do:
+In a nutshell, as engineer #3 you'd be creating a lot of things from the ground up. Working with product, marketing and leadership every day.
+
 - Own and create from scratch our new [blog](https://get-base.com/blog) frontend and discuss different architectures with [Lola](https://www.linkedin.com/in/lolapriego/).
 - You'd be working directly with the marketing and product team to fully own our webpage (HTML/CSS/JS). From implementing A/B tests to enhance and improve our checkout functionality.
 - You'll be your own **project manager** owning anything that touches frontend and syncing directly with product, marketing. You'll be encouraged to propose new product ideas and prioritize accordingly from company wide KPIs. You'll be reporting directly to the CEO
@@ -42,3 +44,9 @@ In general, we will sponsor the work VISA for any Spanish Base employee that is 
 
 **How many employees do you have in Spain vs in the US?**
 We are striving to have 1/3 of our employees in Spain and 2/3 in NYC. Our engineering team will be mostly based in Spain
+
+### Random
+Checkout some photos of our NYC office, you'll be welcome at any time post-Covid!
+
+![Office](https://www.instagram.com/p/CFH2EDbj5Ve/)
+
