@@ -48,5 +48,5 @@ We are striving to have 1/3 of our employees in Spain and 2/3 in NYC. Our engine
 ### Random
 Checkout some photos of our NYC office, you'll be welcome at any time post-Covid!
 
-![Office](https://www.instagram.com/p/CFH2EDbj5Ve/)
+![Office](https://get-base.com/img/office1.png)
 
