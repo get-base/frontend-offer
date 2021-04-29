@@ -10,7 +10,7 @@
 - Bonus points if you've optimized for SEO before.
 
 ## What you'll do:
-In a nutshell, as engineer #3 you'd be creating a lot of things from the ground up. Working with product, marketing and leadership every day.
+In a nutshell, as engineer #3 you'd be creating a lot of things from the ground up. Working with product, marketing and leadership every day. **You'll have no limits**
 
 - Own and create from scratch our new [blog](https://get-base.com/blog) frontend and discuss different architectures with [Lola](https://www.linkedin.com/in/lolapriego/).
 - You'd be working directly with the marketing and product team to fully own our webpage (HTML/CSS/JS). From implementing A/B tests to enhance and improve our checkout functionality.
